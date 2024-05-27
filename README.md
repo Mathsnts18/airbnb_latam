@@ -24,6 +24,8 @@ O Airbnb é uma plataforma que permite as pessoas alugar todo ou parte de sua ca
 
 ## 📊 Análise exploratória de dados
 
+[📙 Notebook - Análise exploratória de dados](<Analise Exploratoria de Dados.ipynb>)
+
 Com a análise realizada, foi possivel tirar os seguintes insights:
 
 - A Argentina compensa a baixa quantidade de acomodações e reservas com a alta média de preço e alta classificação possuindo o maior faturamento por reservas, uma explicativa seria **os destinos terem uma sazonalidade menor, causando um baixo número de reservas e porém maior demanda e preço**.
@@ -37,6 +39,7 @@ Entretanto, a Colômbia com o segundo maior número de acomodações e a menor m
 ## 😄 Análise Cohort
 
 ![Análise Cohort](img/image.png)
+[📙 Notebook - Análise Cohort](<Analise Cohort.ipynb>)
 
 A Análise Cohort nos mostraram as taxas de retenção durante o periodo de um ano.
 
@@ -45,6 +48,7 @@ Ao fazer uma breve análise, podemos concluir que apesar de termos melhoras na t
 ## 🔻 Funil de Conversão
 
 ![alt text](img/funil-conversao-br.png)
+[📙 Notebook - Funil de conversão](<Funil de Conversao.ipynb>)
 
 Foram criado os funis de conversão para os 4 países e foi observado que:
 
